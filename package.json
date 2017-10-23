@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A program that convert a number to a string, the content of which depends on the number's prime factors",
     "main": "app.js",
-    "script": {
+    "scripts": {
         "build": "babel src -d dist"
     },
     "scripts": {
